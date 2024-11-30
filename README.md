@@ -22,6 +22,7 @@ While you can use this as a starting point for your own Notion integration, you'
 - Add new todo items
 - View all todos
 - View today's tasks
+- Check off a task as complete
 
 ## Prerequisites
 
